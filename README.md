@@ -1,0 +1,2 @@
+# MyBatis01
+包括配置主配置文件mybatis-config.xml、数据库配置文件 jdbc.properties、数据库配置文件 jdbc.properties、接口配置文件*Mapper.xml、获取访问数据库的SqlSessionFactory和SqlSession方法、增删查改sql语句的映射以及一对一和一对多的结果集映射的实现
